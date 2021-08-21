@@ -1,0 +1,23 @@
+{
+  "name": "my-first-gatsby-site-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My First Gatsby Site Test",
+  "author": "Dan Meuse",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.11.1",
+    "gatsby-plugin-gatsby-cloud": "^3.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
